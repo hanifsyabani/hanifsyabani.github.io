@@ -807,6 +807,6 @@ footer{
 /* Hp */
 @media screen and (max-width:450px){
   html{
-    font-size: 50%;
+    font-size: 65%;
   }
 }
